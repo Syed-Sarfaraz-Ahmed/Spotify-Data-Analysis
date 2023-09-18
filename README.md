@@ -42,3 +42,32 @@ I will be creating an exploratory analysis by creating data visualizations and c
 | acousticness | How accoustic sounding the song is |
 | speechiness | How much of a song is spoken word |
 | track_popularity |  How popular a song is (as of time of data collection) |
+
+**Link to Dataset:** https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022
+
+
+## Tech Stack 
+- Excel *(Data Cleaning)*
+- SQL *(Exploratory Data Analysis, Case, Subqueries)*
+
+## Summary of Analysis
+- Top Songs based on popularity
+- Top songs from each year
+- Analysis based on Tempo
+- Analysis based on energy (db)
+- Analysis based on Danceability
+- Analysis based on Loudness
+- Analysis based on Valency
+- Analysis based on Speechiness
+- Analysis based on Acousticness
+
+To view the analysis **Click [Here]()**
+
+## Conclusion
+In conclusion, this analysis demonstrates the dynamic and evolving nature of musical preferences on Spotify from 2000 to 2022. While there are general trends that suggest what makes a song popular, there are always exceptions and outliers that capture the hearts of listeners. This dataset serves as a testament to the ever-changing landscape of music, driven by innovation, creativity, and the evolving tastes of music enthusiasts.
+
+Understanding these trends can be invaluable for artists, record labels, and music producers looking to create music that resonates with a broad audience on streaming platforms like Spotify. Additionally, this analysis provides music enthusiasts with a glimpse into the fascinating world of data-driven music exploration, where numbers and statistics harmonize with melodies and lyrics to create a richer listening experience.
+
+***
+*Thank you!*
+***
