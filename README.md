@@ -4,7 +4,7 @@
 ![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/Syed-Sarfaraz-Ahmed/Spotify-Data-Analysis?logo=history&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
 
-About Exploratory Data Analysis on "Top Songs of Spotify" between 2000-2022. This report explores on different data relations which can be formed from the given dataset.
+About Exploratory Data Analysis on "Top Songs of Spotify" between 2010-2022. This report explores on different data relations which can be formed from the given dataset.
 
 ## Introduction
 
@@ -64,7 +64,7 @@ I will be creating an exploratory analysis by creating data visualizations and c
 To view the analysis **Click [Here]()**
 
 ## Conclusion
-In conclusion, this analysis demonstrates the dynamic and evolving nature of musical preferences on Spotify from 2000 to 2022. While there are general trends that suggest what makes a song popular, there are always exceptions and outliers that capture the hearts of listeners. This dataset serves as a testament to the ever-changing landscape of music, driven by innovation, creativity, and the evolving tastes of music enthusiasts.
+In conclusion, this analysis demonstrates the dynamic and evolving nature of musical preferences on Spotify from 2010 to 2022. While there are general trends that suggest what makes a song popular, there are always exceptions and outliers that capture the hearts of listeners. This dataset serves as a testament to the ever-changing landscape of music, driven by innovation, creativity, and the evolving tastes of music enthusiasts.
 
 Understanding these trends can be invaluable for artists, record labels, and music producers looking to create music that resonates with a broad audience on streaming platforms like Spotify. Additionally, this analysis provides music enthusiasts with a glimpse into the fascinating world of data-driven music exploration, where numbers and statistics harmonize with melodies and lyrics to create a richer listening experience.
 
