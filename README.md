@@ -61,7 +61,7 @@ I will be creating an exploratory analysis by creating data visualizations and c
 - Analysis based on Speechiness
 - Analysis based on Acousticness
 
-To view the analysis **Click [Here]()**
+To view the analysis **Click [Here](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Data-Analysis/blob/main/Spotify_analysis.sql)**
 
 ## Conclusion
 In conclusion, this analysis demonstrates the dynamic and evolving nature of musical preferences on Spotify from 2010 to 2022. While there are general trends that suggest what makes a song popular, there are always exceptions and outliers that capture the hearts of listeners. This dataset serves as a testament to the ever-changing landscape of music, driven by innovation, creativity, and the evolving tastes of music enthusiasts.
